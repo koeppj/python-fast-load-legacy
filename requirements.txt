@@ -1,0 +1,9 @@
+boxsdk[jwt]
+requests==2.31.0
+urllib3<2.1
+PyJWT<=2.8.0
+cryptography<41
+charset-normalizer<4
+idna<4
+cffi>=1.14
+pycparser>=2.20
